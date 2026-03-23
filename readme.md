@@ -7,4 +7,7 @@
 <img src = figures/iso.png width = 1000>
 </p>
 
+> [!IMPORTANT]
+> Исходная документация (включая производственную документацию) хранится [здесь](https://github.com/j3qq4hch/pds019_082/issues/1).
+
 3d модель доступна [по ссылке](https://a360.co/41i2nmS).
